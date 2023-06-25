@@ -5,6 +5,8 @@ public class ConditionalTruePrinter {
         if (3>1) {
             System.out.println("true");
         }
-        else {System.out.println("true");}
+        else {
+            System.out.println("true");
+        }
     }
 }
